@@ -1,8 +1,10 @@
 # Todo app with Django and React
 
-Store your list of tasks in this app with a CRUD API.<br/>
+Store your task list with this App<br/>
 Full authentication system (signup, login and logout)<br/>
-The tasks and users are stored in a SQLite database<br/>
+Tasks and Users are stored in a SQLite database<br/>
+CRUD API<br/>
+
 
 ### Programming languages
 * Python
